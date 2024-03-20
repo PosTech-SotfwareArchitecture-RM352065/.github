@@ -1,6 +1,6 @@
 # POS TECH FIAP - SOFTWARE ARCHITECTURE
 
-<img  width="88" height="78" alt="Awesome GitHub Profile Readme" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/79249f3afa76352cd1f954d841d8a5042254679e/docs/assets/sandduda-logo.png"> </img>
+<img  width="300" height="300" alt="Awesome GitHub Profile Readme" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/79249f3afa76352cd1f954d841d8a5042254679e/docs/assets/sandduda-logo.png"> </img>
 
 Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS TECH
 
