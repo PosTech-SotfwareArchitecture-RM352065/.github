@@ -69,12 +69,12 @@ Para criação dos digramas usando o modelo C4, utilizei o site [IcePanel](https
 #### Diagrama de Contexto
 Tem como objectivo demonstrar como os atores, no nosso caso usuário, interagem com nosso sistema e onde podemos agregar valor ao cliente:
 
-<img alt="Diagrama de Contexto" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/tree/main/docs/assets/contextDiagram.png"></img>
+<img alt="Diagrama de Contexto" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/105726af71c66ceeb59197ee74cce4c13989f3dc/docs/assets/componentsDiagram.png"></img>
 
 #### Diagrama de Container
 Aplicações e bases dentro de um sistema usado pelo usuário:
 
-<img alt="Diagrama de Contexto" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/tree/main/docs/assets/containerDiagram.png"></img>
+<img alt="Diagrama de Contexto" src="../.github/tree/main/docs/assets/containerDiagram.png"></img>
 
 #### Diagrama de Componentes
 Componentes dentro da aplicação:
