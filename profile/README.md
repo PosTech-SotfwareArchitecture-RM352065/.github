@@ -1,6 +1,6 @@
 # POS TECH FIAP - SOFTWARE ARCHITECTURE
 
-<img alt="Awesome GitHub Profile Readme" src="../docs/assets/sandduda-logo.png"> </img>
+<img alt="Awesome GitHub Profile Readme" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/tree/main/docs/assets/sandduda-logo.png"> </img>
 
 Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS TECH
 
@@ -69,14 +69,14 @@ Para criação dos digramas usando o modelo C4, utilizei o site [IcePanel](https
 #### Diagrama de Contexto
 Tem como objectivo demonstrar como os atores, no nosso caso usuário, interagem com nosso sistema e onde podemos agregar valor ao cliente:
 
-<img alt="Diagrama de Contexto" src="../docs/assets/contextDiagram.png"></img>
+<img alt="Diagrama de Contexto" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/tree/main/docs/assets/contextDiagram.png"></img>
 
 #### Diagrama de Container
 Aplicações e bases dentro de um sistema usado pelo usuário:
 
-<img alt="Diagrama de Contexto" src="../docs/assets/containerDiagram.png"></img>
+<img alt="Diagrama de Contexto" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/tree/main/docs/assets/containerDiagram.png"></img>
 
 #### Diagrama de Componentes
 Componentes dentro da aplicação:
 
-<img alt="Diagrama de Contexto" src="../docs/assets/componentsDiagram.png"></img>
+<img alt="Diagrama de Contexto" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/tree/main/docs/assets/componentsDiagram.png"></img>
