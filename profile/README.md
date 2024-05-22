@@ -8,11 +8,11 @@ Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS 
 
 [Video Youtube Módulo 3](https://www.youtube.com/watch?v=SvFZTCRB8gU)
 
+## Estrutura dos repositórios
+
 > [!Note]
 > 
 > Algumas das configurações que fiz estão concentradas na minha página de "atalhos" [TLDR](https://github.com/cangelosilima/TLDR). Estou usando o [Windows Developer Environment](https://github.com/cangelosilima/TLDR/tree/main/win-developer-env/README.md)
-
-## Estrutura dos repositórios
 
 ### Documentação
 A documentação deste projeto é estruturada de maneira organizada para garantir uma experiência intuitiva aos visitantes. Cada contexto, como Docker, Kubernetes e APIs, possui seu próprio conjunto de informações contido em um README específico, localizado dentro da pasta `docs`. A única exceção é o README do repositório principal, mantido fora dessa pasta para simplificar o acesso aos visitantes.
