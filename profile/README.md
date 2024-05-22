@@ -1,12 +1,13 @@
 # POS TECH FIAP - SOFTWARE ARCHITECTURE
 <img width="200" height="200" alt="Awesome GitHub Profile Readme" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/79249f3afa76352cd1f954d841d8a5042254679e/docs/assets/sandduda-logo.png"> </img>
+
 Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS TECH
 
 ## Videos Youtube
 <img width="200" height="200" alt="Video Youtube Módulo 2" src="(https://www.youtube.com/watch?v=GzHLmtYgzV0"> </img>
 
-[![Video Youtube Módulo 2](https://www.youtube.com/watch?v=GzHLmtYgzV0)
-[![Video Youtube Módulo 3](https://www.youtube.com/watch?v=SvFZTCRB8gU)
+[Video Youtube Módulo 2](https://www.youtube.com/watch?v=GzHLmtYgzV0)
+[Video Youtube Módulo 3](https://www.youtube.com/watch?v=SvFZTCRB8gU)
 
 ## Video Youtube Módulo 2
 [![Video Youtube Módulo 2](https://img.youtube.com/vi/GzHLmtYgzV0/0.jpg | width=100)](https://www.youtube.com/watch?v=GzHLmtYgzV0) [![Video Youtube Módulo 3](https://img.youtube.com/vi/SvFZTCRB8gU/0.jpg)](https://www.youtube.com/watch?v=SvFZTCRB8gU)
