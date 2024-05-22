@@ -21,16 +21,16 @@ A documentação deste projeto é estruturada de maneira organizada para garanti
 
 #### Payment API
 
-API desenvolvida em .net 8 para Azure Functions, utilizando banco de dados MongoDB e integrando com o Mercago Pago para geração de QR Code para PIX
+API desenvolvida em .net 8 para Azure Functions, utilizando banco de dados MongoDB e integrando com o Mercago Pago para geração de QR Code para PIX:
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment
 
 [![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment) 
 
 #### Terrafrom para criação da infraestrutura de kubernetes para a api acima:
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-kubernetes-terraform
+https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform
 
-[![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-kubernetes-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-kubernetes-terraform/actions/workflows/terraform-apply.yml)
-[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-kubernetes-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-kubernetes-terraform/actions/workflows/terraform-destroy.yml)
+[![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform/actions/workflows/terraform-apply.yml)
+[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform/actions/workflows/terraform-destroy.yml)
 
 #### API de autenticação em .net core e Azure function
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-auth-api
