@@ -19,10 +19,14 @@ Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS 
 ### Documentação
 A documentação deste projeto é estruturada de maneira organizada para garantir uma experiência intuitiva aos visitantes. Cada contexto, como Docker, Kubernetes e APIs, possui seu próprio conjunto de informações contido em um README específico, localizado dentro da pasta `docs`. A única exceção é o README do repositório principal, mantido fora dessa pasta para simplificar o acesso aos visitantes.
 
-#### API do restaurante em ASP.Net core, contendo as collections do postman para testes da API
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
+#### Payment API
+API desenvolvida em .net 8 para Azure Functions, utilizando banco de dados MongoDB e integrando com o Mercago Pago para geração de QR Code para PIX
+https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment
 
-[![Code Test & Analysis | Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api/actions/workflows/code-test-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api/actions/workflows/code-test-analysis.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment)
+
+[![Code Test & Analysis | Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment/actions/workflows/code-test-analysis.yml)
 
 #### Terrafrom para criação da infraestrutura de kubernetes para a api acima:
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-kubernetes-terraform
