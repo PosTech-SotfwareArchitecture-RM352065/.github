@@ -20,11 +20,13 @@ A documentação deste projeto é estruturada de maneira organizada para garanti
 ### Payment API
 
 API desenvolvida em .net 8 para Azure Functions, utilizando banco de dados MongoDB e integrando com o Mercago Pago para geração de QR Code para PIX:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment
 
 [![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-payment) 
 
 Terrafrom para criação da infraestrutura dentro da Azure para a api de pagamentos:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform
 
 [![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform/actions/workflows/terraform-apply.yml)
@@ -33,11 +35,13 @@ https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
 ### Costumer API
 
 API desenvolvida em .net 8 para Azure Functions, utilizando banco de dados SQL Server para criação de novos logins assim como auteticação de clientes cadastrados e anônimos:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer
 
 [![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer) 
 
 Terrafrom para criação da infraestrutura dentro da Azure para a api de clientes:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform
 
 [![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform/actions/workflows/terraform-apply.yml)
@@ -46,11 +50,13 @@ https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
 ### Order API
 
 API desenvolvida em .net 8 para ASP.NET Core para criação de pedidos e carrinho, utilizando banco de dados SQL Server e REDIS, além de Service Bus para notificação em tópicos:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer
 
 [![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order) 
 
 Terrafrom para criação da infraestrutura dentro da Azure para a api de pagamentos:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform
 
 [![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order-terraform/actions/workflows/terraform-apply.yml)
@@ -59,17 +65,20 @@ https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
 ### Admin API
 
 API desenvolvida em .net 8 para ASP.NET Core, utilizando banco de dados SQL Server para criação de pedidos e carrinho:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer
 
 [![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-admin/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-admin/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-admin&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-admin) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-admin&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-admin) 
 
 Terrafrom para criação da infraestrutura dentro da Azure para a api de pagamentos:
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-admin-terraform
 
 [![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-admin-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-admin-terraform/actions/workflows/terraform-apply.yml)
 [![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-admin-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-admin-terraform/actions/workflows/terraform-destroy.yml)
 
 ### Commons, Observability e Application Gateway
+
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-gateway-terraform
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-observability-terraform
