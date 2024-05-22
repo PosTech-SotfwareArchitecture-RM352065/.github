@@ -4,11 +4,7 @@
 
 Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS TECH
 
-## Video Youtube Módulo 2
-[![YouTube Link](https://img.youtube.com/vi/GzHLmtYgzV0/0.jpg)](https://www.youtube.com/watch?v=GzHLmtYgzV0)
-
-## Video Youtube Módulo 3
-[![YouTube Link](https://img.youtube.com/vi/SvFZTCRB8gU/0.jpg)](https://www.youtube.com/watch?v=SvFZTCRB8gU)
+[![Video Youtube Módulo 2](https://img.youtube.com/vi/GzHLmtYgzV0/0.jpg)](https://www.youtube.com/watch?v=GzHLmtYgzV0) [![Video Youtube Módulo 3](https://img.youtube.com/vi/SvFZTCRB8gU/0.jpg)](https://www.youtube.com/watch?v=SvFZTCRB8gU)
 
 > [!Note]
 > 
