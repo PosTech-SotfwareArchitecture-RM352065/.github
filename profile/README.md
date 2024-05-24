@@ -53,9 +53,9 @@ https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
 
 API desenvolvida em .net 8 para ASP.NET Core para criação de pedidos e carrinho, utilizando banco de dados SQL Server e REDIS, além de Service Bus para notificação em tópicos:
 
-[![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order) 
+[![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order/actions/workflows/code-test-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-order) 
 
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer
+https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order
 
 Terrafrom para criação da infraestrutura dentro da Azure para a api de pagamentos:
 
