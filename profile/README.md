@@ -8,7 +8,7 @@ Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS 
 
 [Video Youtube Módulo 3](https://www.youtube.com/watch?v=SvFZTCRB8gU)
 
-[Video Youtube Módulo 3](https://www.youtube.com/watch?v=SnTAKJhcXwQ)
+[Video Youtube Módulo 4](https://www.youtube.com/watch?v=SnTAKJhcXwQ)
 
 ## Estrutura dos repositórios
 
@@ -34,20 +34,20 @@ Terrafrom para criação da infraestrutura dentro da Azure para a api de pagamen
 
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-payment-terraform
 
-### Costumer API
+### Customer API
 
 API desenvolvida em .net 8 para Azure Functions, utilizando banco de dados SQL Server para criação de novos logins assim como auteticação de clientes cadastrados e anônimos:
 
-[![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-costumer) 
+[![Code Analysis & Push to DockerHub](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer/actions/workflows/code-analysis.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer/actions/workflows/code-analysis.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-customer&metric=alert_status)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-customer) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-customer&metric=coverage)](https://sonarcloud.io/summary/overall?id=PosTech-SotfwareArchitecture-RM352065_tech-challenge-fiap-api-customer) 
 
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer
+https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer
 
 Terrafrom para criação da infraestrutura dentro da Azure para a api de clientes:
 
-[![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform/actions/workflows/terraform-apply.yml)
-[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform/actions/workflows/terraform-destroy.yml)
+[![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer-terraform/actions/workflows/terraform-apply.yml)
+[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer-terraform/actions/workflows/terraform-destroy.yml)
 
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform
+https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer-terraform
 
 ### Order API
 
@@ -62,7 +62,7 @@ Terrafrom para criação da infraestrutura dentro da Azure para a api de pagamen
 [![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order-terraform/actions/workflows/terraform-apply.yml)
 [![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-order-terraform/actions/workflows/terraform-destroy.yml)
 
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-costumer-terraform
+https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-customer-terraform
 
 ### Admin API
 
