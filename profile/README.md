@@ -81,15 +81,8 @@ https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
 
 ### Commons, Observability e Application Gateway
 
-[![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-observability-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-observability-terraform/actions/workflows/terraform-apply.yml)
-[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-observability-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-observability-terraform/actions/workflows/terraform-destroy.yml)
-
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-observability-terraform
-
-[![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-gateway-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-gateway-terraform/actions/workflows/terraform-apply.yml)
-[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-gateway-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-gateway-terraform/actions/workflows/terraform-destroy.yml)
-
-https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api-gateway-terraform
+[![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform/actions/workflows/terraform-apply.yml)
+[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-azure-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform/actions/workflows/terraform-destroy.yml)
 
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform
 
