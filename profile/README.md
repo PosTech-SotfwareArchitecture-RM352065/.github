@@ -82,7 +82,7 @@ https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
 ### Commons, Observability e Application Gateway
 
 [![Terraform Apply](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform/actions/workflows/terraform-apply.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform/actions/workflows/terraform-apply.yml)
-[![Terraform Destroy](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-azure-terraform/actions/workflows/terraform-destroy.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform/actions/workflows/terraform-destroy.yml)
+[![Terraform Plan](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-azure-terraform/actions/workflows/terraform-plan.yml/badge.svg?branch=main)](https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform/actions/workflows/terraform-plan.yml)
 
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform
 
