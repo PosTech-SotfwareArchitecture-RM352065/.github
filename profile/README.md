@@ -10,6 +10,8 @@ Projeto criado para as entregas relativas ao Tech Challenge para o curso de POS 
 
 [Video Youtube Módulo 4](https://www.youtube.com/watch?v=SnTAKJhcXwQ)
 
+[Video Youtube Módulo 4](https://www.youtube.com/watch?v=SnTAKJhcXwaQ)
+
 ## Estrutura dos repositórios
 
 > [!Note]
