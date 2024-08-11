@@ -88,6 +88,20 @@ https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-api
 
 https://github.com/PosTech-SotfwareArchitecture-RM352065/tech-challenge-fiap-azure-terraform
 
+### SAGA Pattern
+
+Para o projeto da fase 5, optei por adotar o Saga Pattern utilizando a abordagem de orquestração no fluxo de criação de pedido, pagamento e envio para a cozinha na aplicação. Durante a análise, identifiquei que o domínio do Pedido e o entendimento integral do fluxo estavam concentrados dentro da Order API Isso a torna uma candidata ideal para orquestrar cada etapa do processo, garantindo que todos os passos sejam executados de maneira coordenada e com consistência.
+
+Além disso, centralizar a orquestração na Order API permite manter uma visão unificada do estado do pedido, o que é crucial para responder prontamente a quaisquer falhas ou inconsistências que possam surgir durante a execução do fluxo. Essa centralização também facilita a disponibilização de informações atualizadas para o cliente, promovendo transparência e uma melhor experiência do usuário.
+
+Outra vantagem significativa da orquestração é a possibilidade de implementar compensações de maneira mais controlada e eficiente. Em casos de falha em qualquer etapa, a Order API pode executar de forma coordenada as ações necessárias para reverter o processo, minimizando impactos negativos.
+
+#### Fluxo de Criação, pagamento e inicio preparo
+<img alt="Fluxo Saga 1" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/105726af71c66ceeb59197ee74cce4c13989f3dc/docs/assets/saga-1.png"></img>
+
+#### Fluxo de compensação em caso de falha
+<img alt="Fluxo Saga 1" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/105726af71c66ceeb59197ee74cce4c13989f3dc/docs/assets/saga-2.png"></img>
+
 ### C4 Model
 Para criação dos digramas usando o modelo C4, utilizei o site [IcePanel](https://app.icepanel.io/) que facilita a criação e navegação entre os digramas previstos nessa modelagem. Para uma navegação dentro dos sistemas e suas interações acesso o [Sanduba - C4 Model](https://s.icepanel.io/3NzMSG0BWa6nvY/CH0k).
 
