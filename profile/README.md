@@ -97,10 +97,10 @@ Além disso, centralizar a orquestração na Order API permite manter uma visão
 Outra vantagem significativa da orquestração é a possibilidade de implementar compensações de maneira mais controlada e eficiente. Em casos de falha em qualquer etapa, a Order API pode executar de forma coordenada as ações necessárias para reverter o processo, minimizando impactos negativos.
 
 #### Fluxo de Criação, pagamento e inicio preparo
-<img alt="Fluxo Saga 1" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/105726af71c66ceeb59197ee74cce4c13989f3dc/docs/assets/saga-1.png"></img>
+<img alt="Fluxo Saga 1" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/5a554167f3df54122dde4513d6e4d0c5ee3cb832/docs/assets/saga-1.png"></img>
 
 #### Fluxo de compensação em caso de falha
-<img alt="Fluxo Saga 1" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/105726af71c66ceeb59197ee74cce4c13989f3dc/docs/assets/saga-2.png"></img>
+<img alt="Fluxo Saga 2" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/5a554167f3df54122dde4513d6e4d0c5ee3cb832/docs/assets/saga-2.png"></img>
 
 ### C4 Model
 Para criação dos digramas usando o modelo C4, utilizei o site [IcePanel](https://app.icepanel.io/) que facilita a criação e navegação entre os digramas previstos nessa modelagem. Para uma navegação dentro dos sistemas e suas interações acesso o [Sanduba - C4 Model](https://s.icepanel.io/3NzMSG0BWa6nvY/CH0k).
