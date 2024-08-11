@@ -107,7 +107,7 @@ Outra vantagem significativa da orquestração é a possibilidade de implementar
 
 O Relatório de Impacto à Proteção de Dados Pessoais (RIPD) é um documento fundamental na conformidade com a Lei Geral de Proteção de Dados (LGPD). Ele tem como objetivo analisar e documentar os riscos e impactos relacionados ao tratamento de dados pessoais em determinada atividade ou processo de uma organização. O RIPD deve descrever as medidas adotadas para mitigar os riscos e garantir a proteção dos dados pessoais.
 
-> [![Relatório de Impacto à Proteção de Dados Pessoais (RIPD)]](..\docs\RIPD.md)
+[Relatório de Impacto à Proteção de Dados Pessoais - Restaurante Sanduba](https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/994933c361ef1fbc917389d8e3ce1d32925ea752/docs/assets/RIPD.md)
 
 ### C4 Model
 Para criação dos digramas usando o modelo C4, utilizei o site [IcePanel](https://app.icepanel.io/) que facilita a criação e navegação entre os digramas previstos nessa modelagem. Para uma navegação dentro dos sistemas e suas interações acesso o [Sanduba - C4 Model](https://s.icepanel.io/3NzMSG0BWa6nvY/CH0k).
