@@ -102,6 +102,13 @@ Outra vantagem significativa da orquestração é a possibilidade de implementar
 #### Fluxo de compensação em caso de falha
 <img alt="Fluxo Saga 2" src="https://github.com/PosTech-SotfwareArchitecture-RM352065/.github/blob/5a554167f3df54122dde4513d6e4d0c5ee3cb832/docs/assets/saga-2.png"></img>
 
+
+### LGPD 
+
+O Relatório de Impacto à Proteção de Dados Pessoais (RIPD) é um documento fundamental na conformidade com a Lei Geral de Proteção de Dados (LGPD). Ele tem como objetivo analisar e documentar os riscos e impactos relacionados ao tratamento de dados pessoais em determinada atividade ou processo de uma organização. O RIPD deve descrever as medidas adotadas para mitigar os riscos e garantir a proteção dos dados pessoais.
+
+> [![Relatório de Impacto à Proteção de Dados Pessoais (RIPD)]](..\docs\RIPD.md)
+
 ### C4 Model
 Para criação dos digramas usando o modelo C4, utilizei o site [IcePanel](https://app.icepanel.io/) que facilita a criação e navegação entre os digramas previstos nessa modelagem. Para uma navegação dentro dos sistemas e suas interações acesso o [Sanduba - C4 Model](https://s.icepanel.io/3NzMSG0BWa6nvY/CH0k).
 
